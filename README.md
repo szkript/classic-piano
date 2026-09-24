@@ -38,6 +38,19 @@ Google's **test ads** — tapping them is harmless and earns nothing.
 
 ## What's new
 
+### 0.3.1 — 2026-09-24 — tells us which board you played
+
+A small update to 0.3. Nothing you can see has changed: same boards, same songs,
+same timing, and you can still play multiplayer with people on 0.3.
+
+If you have **Share run data** switched on in Settings, each run now also says
+which board you played it on. That lets me check whether a board changes how
+early or late people tap, without having to ask you. The
+[privacy policy](https://szkript.github.io/classic-piano/privacy.html) lists
+the new item. If sharing is off, nothing is sent, as before.
+
+Install it over 0.3 as usual. Your settings and records stay.
+
 ### 0.3 — 2026-09-24 — four experimental boards
 
 This build is a design test. There are now **four new boards** to play on, and
