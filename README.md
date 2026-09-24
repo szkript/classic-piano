@@ -38,6 +38,29 @@ Google's **test ads** — tapping them is harmless and earns nothing.
 
 ## What's new
 
+### 0.4 — 2026-09-24 — mistakes you can hear and feel
+
+**Missed notes now sound wrong.** When you miss a note, or let go of a long
+note too early, the game plays that note out of tune, like a pianist fumbling
+it. Hits sound exactly as before: only mistakes make a noise.
+
+**Your phone vibrates on mistakes.** You get a short buzz when you miss and a
+longer one when you run out of lives. It works even if you have turned off
+vibration for touches in your phone's settings.
+
+Both are on by default. Each has its own switch in Settings → GAMEPLAY:
+**MISS SOUND** and **VIBRATION**. Please tell me whether the miss sound helps
+you or just annoys you, and whether it is too loud or too quiet.
+
+**One board fewer.** ARC is gone. Settings → GAMEPLAY → **BOARD** now offers
+**CLASSIC**, **GRAND**, **SCORE** and **HANDS**. If you were playing on ARC,
+the game switches you to CLASSIC. I'd still like to hear which board you
+enjoy most, and especially what you think of SCORE.
+
+Songs, timing and scoring are unchanged, and you can still play multiplayer
+with people on 0.3 and 0.3.1. Install it over your current version as usual.
+Your settings and records stay.
+
 ### 0.3.1 — 2026-09-24 — tells us which board you played
 
 A small update to 0.3. Nothing you can see has changed: same boards, same songs,
