@@ -36,6 +36,27 @@ says exactly what each one does.
 The game shows ads through Google AdMob. In this pre-release build they are
 Google's **test ads** — tapping them is harmless and earns nothing.
 
+## What's new
+
+### 0.2 — 2026-09-24
+
+- **In-game display:** a big score, the song's title, and a timeline along
+  the top of the board showing how far through the song you are, with the
+  elapsed time and the song's length.
+- **New look:** the board is a soft-dark neon, the four keys sit on the
+  judgement line, and hold notes look like holds.
+- **Redesigned menu and screens:** larger, easier-to-read text on the menu,
+  settings, calibration, scores, results, the lobby and the race results. The
+  song-length switch shows how long each version is.
+- **Removed:** the `<` / `>` offset buttons during a song. Timing is set by
+  the calibration in settings.
+- Installs over 0.1 and keeps your settings and records. You can still race
+  players who are on 0.1.
+
+### 0.1 — 2026-09-20
+
+First public build for testers.
+
 ## Credits
 
 Four of the pieces are generated from engravings published by the Mutopia
