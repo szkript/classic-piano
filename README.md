@@ -11,7 +11,9 @@ game's source lives in a private repository.
 
 ## Install
 
-1. Download `classicpiano.apk` from the [latest release](../../releases/latest).
+1. Download `classicpiano.apk` from the newest release on the
+   [releases page](../../releases) (currently
+   [0.5](../../releases/download/v0.5/classicpiano.apk)).
 2. Open it on the phone. Android will ask you to allow installs from your
    browser or file manager the first time — that is expected for an app that
    is not on the Play Store yet.
@@ -33,8 +35,10 @@ are **off by default** and stay off unless you turn them on:
 The [privacy policy](https://szkript.github.io/classic-piano/privacy.html)
 says exactly what each one does.
 
-The game shows ads through Google AdMob. In this pre-release build they are
-Google's **test ads** — tapping them is harmless and earns nothing.
+The game shows ads through Google AdMob. Since 0.5 they are **real ads**, so
+please treat them like any player would: watch them, and **don't tap one just to
+help**. Clicks from people who know the developer count as invalid traffic, and
+Google closes ad accounts for it.
 
 ## What's new
 
