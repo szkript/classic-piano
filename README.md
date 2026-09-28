@@ -38,6 +38,35 @@ Google's **test ads** — tapping them is harmless and earns nothing.
 
 ## What's new
 
+### 0.5 — 2026-09-28 — ads, a new icon and GRAND by default
+
+**This version has real ads.** They are live, so please watch them like any
+player would, and **don't tap an ad just to help me.** Clicks from people who
+know the developer count as fake traffic, and Google closes ad accounts for it.
+There are only two kinds:
+
+- **Continue:** when you run out of lives you can watch a short ad to carry on
+  from 2 seconds before you died. It's your choice; "FELADOM" (give up) goes
+  straight to results. If no ad is available, the continue is free.
+- **Before a run:** now and then a full-screen ad appears when you start a song.
+  Never during a song, never in your first 4 runs, never in the first 45 seconds
+  after opening the app, at most one every 3.5 minutes, and never in
+  multiplayer or the tutorial.
+
+**Consent question on first launch.** In the EU, Google asks whether ads may
+use your data. Either answer is fine; the game plays the same. You can change it
+later in Settings → **AD PRIVACY OPTIONS**.
+
+**New app icon**, from the GRAND board. **GRAND is now the default board** for
+new players; if you already picked a board, you keep it.
+
+Please tell me whether the ads feel too frequent, and whether any ad ever broke
+a run (the song not coming back, sound missing afterwards).
+
+Songs, timing and scoring are unchanged, and you can still play multiplayer with
+people on 0.4. Install it over your current version as usual. Your settings and
+records stay.
+
 ### 0.4 — 2026-09-24 — mistakes you can hear and feel
 
 **Missed notes now sound wrong.** When you miss a note, or let go of a long
