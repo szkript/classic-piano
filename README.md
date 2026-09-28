@@ -13,7 +13,7 @@ game's source lives in a private repository.
 
 1. Download `classicpiano.apk` from the newest release on the
    [releases page](../../releases) (currently
-   [0.5](../../releases/download/v0.5/classicpiano.apk)).
+   [0.5.1](../../releases/download/v0.5.1/classicpiano.apk)).
 2. Open it on the phone. Android will ask you to allow installs from your
    browser or file manager the first time — that is expected for an app that
    is not on the Play Store yet.
@@ -41,6 +41,21 @@ help**. Clicks from people who know the developer count as invalid traffic, and
 Google closes ad accounts for it.
 
 ## What's new
+
+### 0.5.1 — 2026-09-28 — continuing after an ad works again
+
+**Fixed: after watching the continue ad, the notes froze and the run failed
+soon after.** The game carried on underneath, but the picture was stuck far
+ahead of the music, so there was nothing to hit. Now the notes pick up exactly
+where the song restarts. Thanks to the tester who reported it.
+
+If SHARE RUN DATA is on, the run summary now also says how a continue went
+(whether the ad was watched, and whether the game, the music and the picture
+all restarted properly), so a problem like this shows up without needing the
+phone. The [privacy policy](https://szkript.github.io/classic-piano/privacy.html)
+lists the new fields; nothing about the ad itself or you is included.
+
+Install it over 0.5; settings and records are kept.
 
 ### 0.5 — 2026-09-28 — ads, a new icon and GRAND by default
 
