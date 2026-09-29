@@ -1,7 +1,7 @@
 # Classic Piano
 
 A four-lane falling-tile rhythm game for Android. Tiles slide down, you tap
-them on the judgement line. Twelve classical pieces, two difficulties each,
+them on the judgement line. Twelve classical pieces, three difficulties each,
 a full-length and a ~90-second short map of every one, five lives, local best
 records, a global leaderboard, and online multiplayer for up to four players.
 
@@ -13,7 +13,7 @@ game's source lives in a private repository.
 
 1. Download `classicpiano.apk` from the newest release on the
    [releases page](../../releases) (currently
-   [0.5.1](../../releases/download/v0.5.1/classicpiano.apk)).
+   [0.6](../../releases/download/v0.6/classicpiano.apk)).
 2. Open it on the phone. Android will ask you to allow installs from your
    browser or file manager the first time — that is expected for an app that
    is not on the Play Store yet.
@@ -41,6 +41,32 @@ help**. Clicks from people who know the developer count as invalid traffic, and
 Google closes ad accounts for it.
 
 ## What's new
+
+### 0.6 — 2026-09-29 — the whole game dressed as GRAND
+
+**If you play on GRAND (the default), every screen now matches the board.**
+The menu, settings, scores, results, calibration, multiplayer and the
+"out of lives" offer all look like the inside of the piano at night: a dark
+hall with far lamps, black lacquer panels with a thin gold edge, ivory text,
+and gold for the one button that matters on each screen.
+
+- **The menu shows the real GRAND board** behind the song, with notes waiting
+  at the gold arch. Each difficulty's play button is an ivory note, and its
+  difficulty is shown as one to three lit candles, like your lives in a song.
+- **The MULTIPLAYER button is red felt**, like the hammers.
+  Players keep their own colour in the lobby and during a race, so you can
+  still tell who is who.
+- **On CLASSIC, SCORE or HANDS nothing changes:** those keep the neon screens.
+  Switching the board in Settings → GAMEPLAY → **BOARD** changes the look
+  straight away.
+- **Calibration's falling bar looks the same on purpose.** It is what the
+  measurement times, so changing it could change your latency numbers.
+
+Please tell me if any text is hard to read, or a button is hard to find.
+
+Songs, timing, scoring and ads are unchanged, and you can still play
+multiplayer with people on 0.5 and 0.5.1. Install it over your current version
+as usual. Your settings and records stay.
 
 ### 0.5.1 — 2026-09-28 — continuing after an ad works again
 
